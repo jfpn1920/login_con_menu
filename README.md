@@ -7,7 +7,7 @@ Este proyecto simula un sistema de **inicio de sesión** seguido de un **menú d
 
 El programa refuerza la comprensión de **bucles while**, **condicionales** y el manejo de **listas o diccionarios** para almacenar información de usuarios y contraseñas. También permite practicar la validación de entradas y la presentación de opciones de manera clara y controlada.
 
-Además, el proyecto contribuye al desarrollo de habilidades para **gestionar autenticaciones básicas**, controlar el flujo de un programa interactivo y manejar cambios dinámicos en la información del usuario de manera segura y eficiente.
+Además, el proyecto contribuye al desarrollo de habilidades para gestionar **autenticaciones básicas**, controlar el flujo de un programa interactivo y manejar cambios dinámicos en la información del usuario de manera segura y eficiente. También permite practicar la **validación de datos**, la **gestión de accesos** y la **interacción continua con el usuario**, fomentando la capacidad de diseñar sistemas sencillos pero funcionales que simulan procesos reales de inicio de sesión y manejo de opciones.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
